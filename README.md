@@ -11,19 +11,12 @@
 <div align="center">
  
  🔭 I’m currently working on my Final Year Project - Mining Big Spatial Data.
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
-
-💬 Ask me about **Python, Java, HTML, React**
-
+ 💬 Ask me about **Python, Java, HTML, React**
  </div>
 
  <div align="center"> 
   <a href="mailto:ngzhkai@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="[https://NgZhiKai.github.io](https://github.com/NgZhiKai)" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
 
